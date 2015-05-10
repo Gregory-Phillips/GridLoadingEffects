@@ -30,5 +30,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "masonry": "~3.3.0",
+    "classie": "git://github.com/desandro/classie.git#~1.0.1",
+    "imagesloaded": "~3.1.8",
+    "modernizr": "git://github.com/Modernizr/Modernizr.git#~2.8.3"
+  }
 }
