@@ -1,0 +1,34 @@
+{
+  "name": "GridLoadingEffects-Bower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Gregory-Phillips/GridLoadingEffects",
+  "authors": [
+    "gregory@artoffitz.com"
+  ],
+  "description": "Grid Loading Effects with Bower",
+  "main": "GridLoadingEffects",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "Grid",
+    "Loading",
+    "Effects",
+    "CSS3",
+    "LESS",
+    "SASS",
+    "JavaScript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
